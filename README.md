@@ -1,9 +1,5 @@
 # Tribute Page
 
-## That was my exercise by DCI course, and [bonus task](#bonus-task) was publishing on my GitHub.
-
-![Linkin Park Tribut Page](/image/linkin-park-tribut-page-example.png)
-
 For this exercise you will make a simple page dedicated to someone or something that has had a positive influence on you.
 
 ## Task
@@ -28,6 +24,6 @@ Here is an example of how your site could look;
 
 ![Example](./example.png)
 
-# *Bonus Task*
+## Bonus Task
 
-**Publish your page on GitHub pages to share with everyone!**
+Publish your page on GitHub pages to share with everyone!
